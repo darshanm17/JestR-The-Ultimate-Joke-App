@@ -27,13 +27,13 @@ To get a copy of this project up and running on your local machine, follow these
 
 ## Folder Structure
 
-JestR-The-Ultimate-Joke-App/
-│
-├── index.html      # Main HTML file
-├── script.js       # JavaScript file for dynamic functionality
-├── style.css       # CSS file for styling
-│
-└── README.md       # Project documentation
+-JestR-The-Ultimate-Joke-App/
+-│
+-├── index.html      # Main HTML file
+-├── script.js       # JavaScript file for dynamic functionality
+-├── style.css       # CSS file for styling
+-│
+-└── README.md       # Project documentation
 
 ## Contributing
 Contributions are welcome! If you'd like to contribute to this project, feel free to open a pull request.
